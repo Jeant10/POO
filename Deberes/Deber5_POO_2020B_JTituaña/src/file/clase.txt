@@ -1,0 +1,19 @@
+José Luis
+García Pérez
+19
+12345678G
+8
+Ana
+González Ríos
+20
+22334455E
+6
+Manuel Alejandro
+Besteiro Rodríguez
+21
+87654321A
+Lineas añadidas
+Linea: 0
+Linea: 1
+Linea: 2
+
